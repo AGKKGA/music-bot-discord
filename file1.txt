@@ -1,0 +1,3 @@
+//Whatever the discord bot command is (m!play | /play | !play)
+//Example:
+m!play https://open.spotify.com/track/3zbnvxvqV5lL4Vq0FznWsX?si=0687333d84af41c9
